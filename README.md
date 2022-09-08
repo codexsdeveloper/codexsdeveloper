@@ -1,6 +1,1 @@
-Hello there, here is some of my skills. I have more than 3 years of experience in Web development and WordPress,Graphic Design,Social Media Marketing expert in web design development. Also I have great experience with design. I believe that my strong knowledge base and great experience are the keys to customer satisfaction. I always use up-to-date standard and technology for my each projects.
-
-<!---
-codexsdeveloper/codexsdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With over 6 years of experience as a WordPress, Shopify and custom Web developer, I am proficient in developing engaging and well-managed Websites and Stores using HTML, CSS, JavaScript, WordPress, Elementor, Shopify Liquid Code, and JQuery. I created rich and interactive front-end solutions that fulfill a client's requirements keeping real users in mind, increasing web sales by 40% and mobile-web sales by 45%. I fully understand how Web Technology works and have extensive knowledge of API Integrations, Payment Gateways, Inventory Management, Navigation, and Checkout Operations.
